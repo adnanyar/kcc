@@ -1,0 +1,63 @@
+  
+  .logo-area
+  {
+      height: 90px;
+      
+  }
+  
+  #cart-plus
+  {
+      color: crimson;
+      margin-top: 7px;
+      margin-right: 10px;
+      font-size:40px;
+  }
+  
+  #about-us{
+    color: crimson;
+      margin-top: 7px;
+      margin-right: 10px;
+      font-size:40px;
+  
+  }
+  .mysticky-header{
+    position: sticky;
+    top: 0;
+}
+  
+  
+  
+  .toggle {
+      padding: 10px;
+      display: none;
+    }
+  
+  .crimsom-icon{
+      color: crimson;
+  }
+  
+  /* Styling For Footer Section Has Started */
+  #footer{
+    width: 100%;
+    height: 500px;
+  background-color:black;
+  border: 15px solid darkgray;
+  }
+  .white
+  {
+    color: white;
+    
+  }
+  .darkgray
+  {
+    color: darkgray;
+  }
+  #subscription-input
+  {
+    border: 2px solid white ;
+  }
+  #subscription-btn
+  {
+    border: 2px solid white ;
+    border-radius: 0px 5px 5px 0px;
+  }
